@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Codelab SoundPool</string>
+    <string name="btn_text_play">Play</string>
+    <string name="text_soudpool">Test Soundpool</string>
+    <string name="btn_text_stop">Stop</string>
+    <string name="text_mediaplayer">Test Media Player</string>
+</resources>
